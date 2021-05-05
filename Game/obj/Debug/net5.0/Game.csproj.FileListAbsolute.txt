@@ -1,0 +1,14 @@
+/Users/varunkhanna/Projects/Game/Game/bin/Debug/net5.0/Game.deps.json
+/Users/varunkhanna/Projects/Game/Game/bin/Debug/net5.0/Game.runtimeconfig.json
+/Users/varunkhanna/Projects/Game/Game/bin/Debug/net5.0/Game.runtimeconfig.dev.json
+/Users/varunkhanna/Projects/Game/Game/bin/Debug/net5.0/Game.dll
+/Users/varunkhanna/Projects/Game/Game/bin/Debug/net5.0/ref/Game.dll
+/Users/varunkhanna/Projects/Game/Game/bin/Debug/net5.0/Game.pdb
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/Game.AssemblyInfoInputs.cache
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/Game.AssemblyInfo.cs
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/Game.csproj.CoreCompileInputs.cache
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/Game.dll
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/ref/Game.dll
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/Game.pdb
+/Users/varunkhanna/Projects/Game/Game/obj/Debug/net5.0/Game.genruntimeconfig.cache
